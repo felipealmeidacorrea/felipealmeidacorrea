@@ -1,6 +1,7 @@
 ### Desenvolvedor front-end com experiência em e-commerce 💻
 
-#### Possuo repositório de trabalhos profissionais em e-commerces (com ênfase em abiente Vtex CMS) e projetos pessoais de estudos, práticas e suporte para outros desenvolvedores (com ênfase em desenvolvimento front-end, ambientes Vtex CMS e Vtex IO e boas práticas).
+#### Possuo repositórios de trabalho profissional em e-commerce (com ênfase em abiente Vtex CMS) e projetos pessoais de estudos, práticas e suporte para outros desenvolvedores (com ênfase em desenvolvimento front-end, ambientes Vtex CMS e Vtex IO e boas práticas).
+
 <div align="center">
   <a href="https://github.com/felipealmeidacorrea">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipealmeidacorrea&show_icons=true&theme=dracula&title_color=blue&include_all_commits=true&count_private=true"/>
