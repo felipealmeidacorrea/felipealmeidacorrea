@@ -1,4 +1,4 @@
-### Desenvolvedor front-end com experiência em e-commerce 💻
+### Desenvolvedor front-end com experiência em e-commerce (Vtex CMS/IO) 💻
 
 #### Possuo repositórios de trabalho profissional em e-commerce (com ênfase em abiente Vtex CMS) e projetos pessoais de estudos, práticas e suporte para outros desenvolvedores (com ênfase em desenvolvimento front-end, ambientes Vtex CMS/IO e boas práticas).
 
