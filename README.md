@@ -17,11 +17,14 @@
   <img align="center" alt="logo de Sass" height="30" width="auto" src="/img/sass-fac.png">
   <img align="center" alt="logo de Figma" height="30" width="auto" src="/img/figma-fac.png">
   <img align="center" alt="logo de VS Code" height="30" width="auto" src="/img/vs-code-fac.png">
-  <img align="center" alt="logo de Analytics" height="40 width="auto" src="/img/analytics-fac.png">
+  <img align="center" alt="logo de Analytics" height="40" width="auto" src="/img/analytics-fac.png">
   <img align="center" alt="logo de Git" height="30" width="auto" src="/img/git-fac.png">
   <img align="center" alt="logo de Trello" height="30" width="auto" src="/img/trello-fac.png">
   <img align="center" alt="logo de Photoshop" height="30" width="auto" src="/img/photoshop-fac.png">
   <img align="center" alt="logo de Google Apps" height="40" width="auto" src="/img/google-apps-fac.png">
 </div>
+<div align="center">
   
-![Snake animation](https://github.com/felipealmeidacorrea/felipealmeidacorrea/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/felipealmeidacorrea/felipealmeidacorrea/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
