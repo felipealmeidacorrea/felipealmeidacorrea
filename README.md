@@ -11,7 +11,7 @@
 <div align="center" tyle="display: inline_block">
   <img align="center" alt="logo de Vtex" height="30" width="auto" src="/img/vtex-fac.png">
   <img align="center" alt="logo de HTML" height="40" width="auto" src="/img/html-fac.png">
-  <img align="center" alt="logo de CSS" height="35" width="auto" src="/img/css-fac.png">
+  <img align="center" alt="logo de CSS" height="40" width="auto" src="/img/css-fac.png">
   <img align="center" alt="logo de JavaScript" height="35" width="auto" src="/img/js-fac.png">
   <img align="center" alt="logo de Sass" height="30" width="auto" src="/img/sass-fac.png">
   <img align="center" alt="logo de Figma" height="30" width="auto" src="/img/figma-fac.png">
