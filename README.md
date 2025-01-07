@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&duration=3000&color=77ACF1&vCenter=true&height=40&lines=Vtex+IO;Vtex+CMS;HTML5;CSS3;SASS;JavaScript+(ES6);GIT)](https://git.io/typing-svg)
 
-<p> Olá! 😊 Tenho mais de 3 anos de experiência como desenvolvedor front-end de e-commerce. Trabalho com Vtex CMS/legado desde o começo da carreira e atualmente atuo no desenvolvimento de sites em Vtex IO, participei do programa de treinamento da Vtex, Hiring Coders, nas edições de 2021 e 2022, além de ter participado da Vtex Training Week de 2021. Em Vtex CMS atuei construindo páginas de home, departamento, seção, categoria, busca, produto e outras. Em Vtex IO Sou capaz de construir todo o front de loja (páginas principais, de busca, de produto e demais) utilizando perfeitamente os componentes nativos, estou me aprimorando no desenvolvimento de apps custom e em chamadas de APIs. Além do trabalho com Vtex, também atuei no desenvolvimento de front-end puro, em parceria com desenvolvedor back-end (Java) e com o responsável pelo Banco de Dados (Oracle SQL) para entregar sistemas que substituíram os processos manuais e algumas rotinas de ERP (como busca de produtos, criação de lista de presentes, cadastro de produtos para o e-commerce etc.) afim de economizar na utilização de licenças e na melhor eficiência corporativa.
+<p>
 </p>
 
 <!---<div align="center">
